@@ -1,1 +1,15 @@
 C:\HBASE\HbaseApp\HbaseApp\bin\Debug\HbaseApp.exe.config
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\HbaseApp.exe.config
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\HbaseApp.exe
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\HbaseApp.pdb
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\Microsoft.HBase.Client.dll
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\Microsoft.ServiceBus.dll
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\protobuf-net.dll
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\Microsoft.ServiceBus.xml
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\protobuf-net.xml
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\obj\Debug\HbaseApp.exe
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\obj\Debug\HbaseApp.pdb
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\Microsoft.HBase.Client.pdb
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\hdinsight\hbase\HbaseNet\HbaseApp\HbaseApp\bin\Debug\protobuf-net.pdb
